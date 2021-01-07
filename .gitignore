@@ -40,6 +40,15 @@ output/*/index.html
 
 # Sphinx
 docs/_build
+docs/.DS_Store
+docs/_static/*
 
 # Cookiecutter
 output/
+
+# Downloads
+downloads/
+
+# Logs
+logs/
+
